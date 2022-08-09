@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> My tech stack </h2>
+<h3> My tech stack </h3>
+![HTML5](https://img.shields.io/badge/-HTML-red)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JS](https://img.shields.io/badge/-JavaScript-brightgreen)
+![Kotlin](https://img.shields.io/badge/-Kotlin-orange)
+![Python](https://img.shields.io/badge/-Python-blueviolet)
+![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen)<br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=0000ff)
+<h3> IoT device </h3>
+Raspberry pi4
+Arduino
