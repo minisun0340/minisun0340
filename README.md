@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3> My tech stack </h3>
+
 ![HTML5](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JS](https://img.shields.io/badge/-JavaScript-brightgreen)
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen)<br>
 
 <h3> IoT device </h3>
-Raspberry pi4
-Arduino
+- Raspberry pi4<br>
+- Arduino
